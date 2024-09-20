@@ -78,11 +78,11 @@ To get started with the BlogApp project, follow these steps:
 
 
 ## Live Demo
-You can check out the live demo of **BlogApp** here: [Live Demo](https://blog-app-appwrite.vercel.app)
+You can check out the live demo of **BlogApp** here: [Live Demo](https://blog-app-appwrite-seven.vercel.app/)
 
 
 ## Repository
-To explore the code, fork, or contribute, visit the GitHub repository: [GitHub Repository](https://github.com/username/blogApp)
+To explore the code, fork, or contribute, visit the GitHub repository: [GitHub Repository](https://github.com/yashrajpatil13/BlogApp)
 
 
 ## Contributing
